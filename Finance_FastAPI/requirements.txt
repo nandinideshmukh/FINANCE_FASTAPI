@@ -5,3 +5,4 @@ dotenv
 passlib
 bcrypt
 python-jose
+uvicorn[standard]
